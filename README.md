@@ -8,4 +8,4 @@ Contains classes:
    - Game
    - SnakeGame 
 
-SnakeGame contains the driver program for the other classes.
+SnakeGame contains the driver program for the other classes and allows the caller to play the game.
