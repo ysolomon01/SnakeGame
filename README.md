@@ -1,2 +1,11 @@
 # SnakeGame
-Code for Snake project
+Basic Java implementation of the classic game Snake.
+
+Contains classes: 
+   - Cell 
+   - Food
+   - Board
+   - Game
+   - SnakeGame 
+
+SnakeGame contains the driver program for the other classes.
